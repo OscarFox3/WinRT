@@ -1,2 +1,4 @@
-# WinRT
-Tutorial during COP3003
+# WinTR App
+WinTR for guided tutorial 3 in COP 3003.
+
+![screenshot](WinRT.png)
